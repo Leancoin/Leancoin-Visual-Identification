@@ -1,1 +1,1 @@
-# Leancoin-Visual-Identyfication
+# Leancoin-Visual-Identification
